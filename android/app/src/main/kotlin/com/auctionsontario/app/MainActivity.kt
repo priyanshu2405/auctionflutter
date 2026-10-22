@@ -1,4 +1,4 @@
-package com.example.auctions_ontario_prototype
+package com.auctionsontario.app
 
 import io.flutter.embedding.android.FlutterActivity
 
